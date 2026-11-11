@@ -29,3 +29,7 @@ resourcepacksへZIPのまま入れて有効にしてください。旧OAリソ�
 ## v1.9.33
 - `oa:item/yuua` モデルに `particle` テクスチャを追加し、「Missing texture references in model oa:item/yuua: particle」の警告を解消。
 - 対応データパック：v1.9.101（1.9.97以降と組み合わせ可）。
+
+## v1.9.34
+- ロビーの地図パネル画像（`br_lobby_map.png`）を最新のマップから再描画（雪原の洞窟・海中の遺跡・遺跡の塔・帆船・中央広場の位置を表示）。再生成スクリプト：`source/build_lobby_map_1_9_34.py`。
+- 対応データパック：v1.9.102。
