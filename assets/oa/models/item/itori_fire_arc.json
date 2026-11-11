@@ -1,0 +1,105 @@
+{
+  "textures": {
+    "body": "oa:item/itori_fire_arc",
+    "particle": "oa:item/itori_fire_arc"
+  },
+  "elements": [
+    {
+      "from": [
+        -8,
+        8,
+        -8
+      ],
+      "to": [
+        24,
+        8.02,
+        24
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#body"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#body"
+        }
+      }
+    },
+    {
+      "from": [
+        -8,
+        10.5,
+        -8
+      ],
+      "to": [
+        24,
+        10.52,
+        24
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#body"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#body"
+        }
+      }
+    },
+    {
+      "from": [
+        -8,
+        6.5,
+        -8
+      ],
+      "to": [
+        24,
+        6.52,
+        24
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#body"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#body"
+        }
+      }
+    }
+  ],
+  "gui_light": "front"
+}

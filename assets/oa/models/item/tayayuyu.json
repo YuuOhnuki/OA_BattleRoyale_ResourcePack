@@ -1,0 +1,139 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "oa:item/tayayuyu"
+  },
+  "display": {
+    "ground": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        2,
+        0
+      ],
+      "scale": [
+        0.875,
+        0.875,
+        0.875
+      ]
+    },
+    "head": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        0,
+        13,
+        7
+      ],
+      "scale": [
+        1.75,
+        1.75,
+        1.75
+      ]
+    },
+    "thirdperson_righthand": {
+      "rotation": [
+        0,
+        -90,
+        0
+      ],
+      "translation": [
+        0.0,
+        10.162,
+        0.738
+      ],
+      "scale": [
+        1.4875,
+        1.4875,
+        1.4875
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        -90,
+        25
+      ],
+      "translation": [
+        1.13,
+        6.785956,
+        -2.640298
+      ],
+      "scale": [
+        1.1900000000000002,
+        1.1900000000000002,
+        1.1900000000000002
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "scale": [
+        1.75,
+        1.75,
+        1.75
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        0,
+        90,
+        0
+      ],
+      "translation": [
+        -0.0,
+        10.162,
+        0.738
+      ],
+      "scale": [
+        1.4875,
+        1.4875,
+        1.4875
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        90,
+        -25
+      ],
+      "translation": [
+        1.13,
+        6.785956,
+        -2.640298
+      ],
+      "scale": [
+        1.1900000000000002,
+        1.1900000000000002,
+        1.1900000000000002
+      ]
+    },
+    "gui": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

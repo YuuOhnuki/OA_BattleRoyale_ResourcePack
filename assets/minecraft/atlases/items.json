@@ -1,0 +1,239 @@
+{
+  "sources": [
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:item/cod",
+      "sprite": "minecraft:item/cod"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "oa:item/bat_wood",
+      "sprite": "oa:item/bat_wood"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "oa:item/komame",
+      "sprite": "oa:item/komame"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "oa:item/yu_pack",
+      "sprite": "oa:item/yu_pack"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "oa:item/yuttari_body",
+      "sprite": "oa:item/yuttari_body"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/birch_planks",
+      "sprite": "oa:material/birch_planks"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/black_concrete",
+      "sprite": "oa:material/black_concrete"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/blue_ice",
+      "sprite": "oa:material/blue_ice"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/brown_terracotta",
+      "sprite": "oa:material/brown_terracotta"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/dark_oak_log",
+      "sprite": "oa:material/dark_oak_log"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/dark_oak_planks",
+      "sprite": "oa:material/dark_oak_planks"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/gray_concrete",
+      "sprite": "oa:material/gray_concrete"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/hay_block_top",
+      "sprite": "oa:material/hay_block_top"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/iron_block",
+      "sprite": "oa:material/iron_block"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/light_blue_concrete",
+      "sprite": "oa:material/light_blue_concrete"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/orange_terracotta",
+      "sprite": "oa:material/orange_terracotta"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/pink_wool",
+      "sprite": "oa:material/pink_wool"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/purple_concrete",
+      "sprite": "oa:material/purple_concrete"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/red_concrete",
+      "sprite": "oa:material/red_concrete"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/white_concrete",
+      "sprite": "oa:material/white_concrete"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/yellow_concrete",
+      "sprite": "oa:material/yellow_concrete"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/yellow_terracotta",
+      "sprite": "oa:material/yellow_terracotta"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "oa:skin/f_kirisan_1110",
+      "sprite": "oa:skin/f_kirisan_1110"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "oa:skin/lazi_3253",
+      "sprite": "oa:skin/lazi_3253"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "oa:item/br_map",
+      "sprite": "oa:item/br_map"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "oa:item/buff_beer",
+      "sprite": "oa:item/buff_beer"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "oa:item/buff_doria",
+      "sprite": "oa:item/buff_doria"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "oa:item/buff_salmon",
+      "sprite": "oa:item/buff_salmon"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "oa:item/buff_paimon",
+      "sprite": "oa:item/buff_paimon"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "oa:item/buff_yuzupon",
+      "sprite": "oa:item/buff_yuzupon"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "oa:item/buff_azuki",
+      "sprite": "oa:item/buff_azuki"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "oa:item/pichipichi_fish",
+      "sprite": "oa:item/pichipichi_fish"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "oa:item/bandage",
+      "sprite": "oa:item/bandage"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "oa:item/firstaid",
+      "sprite": "oa:item/firstaid"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "oa:item/tayayuyu",
+      "sprite": "oa:item/tayayuyu"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "oa:item/killing_face",
+      "sprite": "oa:item/killing_face"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/gray_wool",
+      "sprite": "oa:material/gray_wool"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/light_gray_concrete",
+      "sprite": "oa:material/light_gray_concrete"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/black_wool",
+      "sprite": "oa:material/black_wool"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/pink_terracotta",
+      "sprite": "oa:material/pink_terracotta"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/white_terracotta",
+      "sprite": "oa:material/white_terracotta"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/stripped_birch_log",
+      "sprite": "oa:material/stripped_birch_log"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:block/stripped_birch_log_top",
+      "sprite": "oa:material/stripped_birch_log_top"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "oa:item/yu_peace_reference",
+      "sprite": "oa:item/yu_peace_reference"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "oa:item/yu_peace_side",
+      "sprite": "oa:item/yu_peace_side"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "oa:item/yu_peace_lid",
+      "sprite": "oa:item/yu_peace_lid"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "oa:item/yu_peace_cigarette",
+      "sprite": "oa:item/yu_peace_cigarette"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"textures": {"map": "oa:item/br_lobby_map", "particle": "oa:item/br_lobby_map"}, "gui_light": "front", "elements": [{"from": [0, 0, 7.5], "to": [16, 16, 8.5], "shade": false, "faces": {"north": {"uv": [0, 0, 16, 16], "texture": "#map"}, "south": {"uv": [0, 0, 16, 16], "texture": "#map"}}}]}

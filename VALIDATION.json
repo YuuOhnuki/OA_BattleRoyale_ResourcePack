@@ -1,0 +1,93 @@
+{
+  "version": "1.0.0",
+  "json": "pass",
+  "all_model_sprites_same_items_atlas": "pass",
+  "explicit_sprites": 24,
+  "vanilla_block_material_aliases": 24,
+  "yuttari": "generated model,composited skin front+overlay",
+  "skin_identity": "original PNGs unchanged",
+  "offline_preview": "face/body layout inspected separately",
+  "in_game_rendering": "not tested",
+  "equipped_head_rendering": "not tested",
+  "server_load": "not tested",
+  "yu_orientation": "hand contexts Y+180; readable label both broad faces; UV not mirrored; runtime not tested",
+  "resourcepack_version": "1.9.14",
+  "killing_mask193": {
+    "face_file": "unchanged supplied KillingFace.png, 32x32",
+    "armor_atlas": "256x128; exact face at head-front UV 8,8; transparent sides/back except gray strap",
+    "item_model": "5 elements; thin front plate and open side/rear straps",
+    "other_assets": "byte-identical to 1.7.0",
+    "data_pack_change_required": false,
+    "json_uv_references_and_zip_crc": "pass",
+    "minecraft_client_visual_test": "not tested"
+  },
+  "killing_gui194": {
+    "rotation": [
+      20,
+      45,
+      0
+    ],
+    "scale": 1.1,
+    "gui_bounds_model_units": {
+      "x": [
+        -7.311484117468902,
+        7.000357133746821
+      ],
+      "y": [
+        -7.045741623105202,
+        4.851000402074827
+      ]
+    },
+    "only_changed_asset": "assets/oa/models/item/killing.json",
+    "json_and_slot_bounds": "pass",
+    "minecraft_client_rendering": "not tested"
+  },
+  "tayayuyu195": {
+    "source": "provided tayayuyu.png",
+    "size": [
+      50,
+      50
+    ],
+    "rgba_transparency": true,
+    "source_bytes": "identical",
+    "other_assets": "unchanged from 1.9.4",
+    "json_texture_references_zip": "pass",
+    "minecraft_rendering": "not tested"
+  },
+  "fix196": {
+    "killing": "face explicitly added to item atlas; all mask textures use item-atlas sprites; original face and equipment texture unchanged",
+    "all_model_direct_textures_checked_against_item_atlas": 50,
+    "unregistered_textures": [],
+    "tayayuyu_scale": 1.75,
+    "gui_icon": "unchanged; fit within inventory slot",
+    "transformation": "complete translation/left_rotation/scale/right_rotation",
+    "json_refs_zip": "pass",
+    "minecraft_rendering": "not tested"
+  },
+  "lazi197": {
+    "model": "20 elements; lower-face cup, side/rear/crown bands, microphone jack/cable",
+    "item_atlas_refs": "pass",
+    "head_display_transform": "present",
+    "killing_and_tayayuyu_assets": "unchanged from 1.9.6",
+    "minecraft_client_rendering": "not tested"
+  },
+  "model198": {
+    "taya": "1.75x held size preserved; wrapper removed; image bottom grip anchor fixed in both hands",
+    "stapler": "hinged cover/magazine/anvil/paper; held display scale x1.25",
+    "yuttari": "12 elements: 6 skin parts plus outer skin layer; F_KiRiSaN_1110; held scale x2",
+    "texture_atlas_and_uv": "pass",
+    "affine_grip_anchor_math": "pass, both hands/first and third person",
+    "source_texture_bytes": "unchanged",
+    "client_rendering": "not tested"
+  },
+  "visual199": {
+    "komame": "voxel bar, wood stick, bean chunks; held scale x1.75",
+    "yuttari": "held scale x0.75; grip maintained",
+    "atlas_refs_uv_json": "pass",
+    "fireball_numeric_model": "1.5x native air speed within fixed-point rounding",
+    "air_range_59_ticks_m": 119.337326,
+    "carrier_ballistic_model_rise_m": 10.087041452936063,
+    "actual_player_height": "not measured",
+    "server_client_multiplayer": "not tested"
+  }
+}

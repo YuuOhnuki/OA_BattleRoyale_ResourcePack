@@ -1,0 +1,21 @@
+{
+  "version": "0.14.0",
+  "target": "Java 26.3",
+  "retrieved_date_jst": "2026-10-31",
+  "profiles": [
+    {
+      "name": "lazi_3253",
+      "uuid": "28e61ce019b54e628fad91f08007a953",
+      "profile_source": "https://sessionserver.mojang.com/session/minecraft/profile/28e61ce019b54e628fad91f08007a953",
+      "skin_source": "https://textures.minecraft.net/texture/69d168fdbcc7387721cd60c45620df62d9942e9bc14623ca96f009f29afdc2ff",
+      "png_sha256": "69d168fdbcc7387721cd60c45620df62d9942e9bc14623ca96f009f29afdc2ff"
+    },
+    {
+      "name": "F_KiRiSaN_1110",
+      "uuid": "1a22e2ed3fc74f93a7138dd19a8c6ed5",
+      "profile_source": "https://sessionserver.mojang.com/session/minecraft/profile/1a22e2ed3fc74f93a7138dd19a8c6ed5",
+      "skin_source": "https://textures.minecraft.net/texture/53acb6c91f2e43b651b3bf153acddf63ab0e1af60e727a68663b443c01dd8445",
+      "png_sha256": "53acb6c91f2e43b651b3bf153acddf63ab0e1af60e727a68663b443c01dd8445"
+    }
+  ]
+}
