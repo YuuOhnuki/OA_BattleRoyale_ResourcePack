@@ -72,10 +72,6 @@ def icon(x, z, kind):
         d.line((cx, cz - 3, cx, cz - 13), fill=(255, 235, 190, 255), width=2); d.polygon([(cx, cz - 13), (cx + 8, cz - 8), (cx, cz - 6)], fill=(240, 240, 250, 255))
     elif kind == 'plaza':
         d.ellipse((cx - 9, cz - 9, cx + 9, cz + 9), outline=(255, 215, 90, 255), width=3)
-for (x, z) in ((27, -135), (-135, -129)): icon(x, z, 'cave'); label(x, z, '雪原の洞窟', (210, 235, 255))
-for (x, z) in ((-132, 125), (130, 113)): icon(x, z, 'ruin'); label(x, z, '海中の遺跡', (190, 255, 245), dy=-30)
-for (x, z) in ((-138, 58), (34, 56), (-50, 34), (14, 66)): icon(x, z, 'tower')
-label(34, 56, '遺跡の塔', (255, 240, 170))
 icon(-78, 111, 'ship'); label(-78, 111, '帆船', (255, 235, 190), dy=-34)
 icon(0, 0, 'plaza'); label(0, 0, '中央広場', (255, 230, 140), dy=-32)
 d.rectangle((0, 0, 511, 511), outline=(20, 24, 36, 255), width=4)
