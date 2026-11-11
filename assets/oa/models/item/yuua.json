@@ -1,5 +1,6 @@
 {
   "textures": {
+    "particle": "oa:material/hay_block_top",
     "straw": "oa:material/hay_block_top",
     "pink": "oa:material/pink_wool",
     "blue": "oa:material/blue_ice",
