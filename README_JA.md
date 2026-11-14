@@ -49,3 +49,12 @@ resourcepacksへZIPのまま入れて有効にしてください。旧OAリソ�
 ## v1.9.38
 - 洞窟マップの地図パネルの名前を「古代都市の町並み」から「古代都市」に変え、広げた古代都市の形で描き直した（`br_lobby_map_cave.png`、生成スクリプトは同じ `source/build_lobby_map_cave_1_9_37.py`）。
 - 対応データパック：v1.9.170。
+
+## v1.9.39
+- ロビーの地図パネルの画像3枚（地上・ネザー・洞窟）を、今の会場から描き直した（データパック v1.9.171 時点）。
+  - 地上：会場のタイル関数を `scripts/voxelize_tiles.py`（データパック）で3Dに起こし、`source/build_lobby_map_1_9_39.py` で描画（1.9.117 以降の起伏・建物の変化を反映）。
+  - ネザー：`source/map_nether_target.npz`（データパック）から `source/build_lobby_map_nether_1_9_39.py` で描画。
+  - 洞窟：`source/map_cave_target.npz` から `source/build_lobby_map_cave_1_9_37.py` で描画（古代都市・神殿のランプを反映）。
+  - 1.9.39 の2本の描画スクリプトは、1.9.34／1.9.36 のものに Windows のフォント（游ゴシック）の指定を足しただけで、描き方は同じ。見た目はほぼ変わらない。
+- 対応データパック：v1.9.171。
+
