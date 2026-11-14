@@ -45,3 +45,7 @@ resourcepacksへZIPのまま入れて有効にしてください。旧OAリソ�
 ## v1.9.37
 - ロビーの地図パネルに、洞窟マップ用の画像を追加（`br_lobby_map_cave.png`、モデル `lobby_map_panel_cave`）。ロビーの「地上／洞窟／ネザー」ボタンで、選択中のマップに合わせてパネルが切り替わる。画像はデータパックの洞窟会場モデル（`source/map_cave_target.npz`）から描いたオリジナルで、外部画像は使っていない（生成スクリプト：`source/build_lobby_map_cave_1_9_37.py`。データパックの `scripts/render_cave_panel.py` と同じもの）。
 - 対応データパック：v1.9.167。
+
+## v1.9.38
+- 洞窟マップの地図パネルの名前を「古代都市の町並み」から「古代都市」に変え、広げた古代都市の形で描き直した（`br_lobby_map_cave.png`、生成スクリプトは同じ `source/build_lobby_map_cave_1_9_37.py`）。
+- 対応データパック：v1.9.170。
