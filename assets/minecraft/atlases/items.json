@@ -122,11 +122,6 @@
     },
     {
       "type": "minecraft:single",
-      "resource": "oa:item/br_map",
-      "sprite": "oa:item/br_map"
-    },
-    {
-      "type": "minecraft:single",
       "resource": "oa:item/buff_beer",
       "sprite": "oa:item/buff_beer"
     },
