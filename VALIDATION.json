@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.9.42",
   "json": "pass",
   "all_model_sprites_same_items_atlas": "pass",
   "explicit_sprites": 24,
@@ -89,5 +89,6 @@
     "carrier_ballistic_model_rise_m": 10.087041452936063,
     "actual_player_height": "not measured",
     "server_client_multiplayer": "not tested"
-  }
+  },
+  "status_icons": "generated 16x8 RGBA bitmap / 2 glyphs, client rendering unverified"
 }
