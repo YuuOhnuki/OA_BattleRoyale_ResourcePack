@@ -1,5 +1,5 @@
 {
-  "version": "1.9.42",
+  "version": "1.9.43",
   "target": "Java 26.3",
   "retrieved_date_jst": "2026-10-31",
   "profiles": [
@@ -34,6 +34,10 @@
     {
       "file": "assets/oa/textures/font/status_icons.png",
       "source": "データパックscripts/gen_weapon_text.pyで生成したオリジナル8pxの体力・食料アイコン。外部画像なし。"
+    },
+    {
+      "file": "assets/oa/textures/font/weapon_*.png",
+      "source": "scripts/gen_weapon_presentation.pyでNoto Sans CJK JP Regular (https://github.com/notofonts/noto-cjk) から生成。SIL OFL 1.1、同梱source/weapon_fonts/LICENSE.txt。4人のモチーフ色＋白縁。"
     }
   ]
 }

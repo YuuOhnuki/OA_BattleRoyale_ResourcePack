@@ -1,3 +1,7 @@
+# OA BattleRoyale Resources 1.9.43
+
+データパック1.9.206＋プラグイン0.25.0対応。ネロノワール・ぴちぴち・ゆー・ふろっしゅ用の白縁モチーフカラー文字を追加。生成はデータパックscripts/gen_weapon_presentation.py、元字形はNoto Sans CJK JP Regular（SIL OFL 1.1）。文字画像のみ確認、Minecraftクライアントの描画は未確認。
+
 # OA BattleRoyale Resources 1.9.42
 
 体力・満腹度の専用アイコン（oa:icons）を追加。データパック1.9.204＋プラグイン0.23.0と組み合わせ。
