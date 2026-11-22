@@ -1,5 +1,5 @@
 {
-  "version": "1.9.43",
+  "version": "1.9.44",
   "target": "Java 26.3",
   "retrieved_date_jst": "2026-10-31",
   "profiles": [
@@ -38,6 +38,14 @@
     {
       "file": "assets/oa/textures/font/weapon_*.png",
       "source": "scripts/gen_weapon_presentation.pyでNoto Sans CJK JP Regular (https://github.com/notofonts/noto-cjk) から生成。SIL OFL 1.1、同梱source/weapon_fonts/LICENSE.txt。4人のモチーフ色＋白縁。"
+    },
+    {
+      "file": "assets/oa/textures/item/br_lobby_map_sky.png",
+      "source": "datapack の scripts/build_map_float.py sky --panel で会場の地形（土台）から生成（オリジナル、外部画像なし。1.9.44）"
+    },
+    {
+      "file": "assets/oa/textures/item/br_lobby_map_end.png",
+      "source": "datapack の scripts/build_map_float.py end --panel で会場の地形（土台）から生成（オリジナル、外部画像なし。1.9.44）"
     }
   ]
 }
