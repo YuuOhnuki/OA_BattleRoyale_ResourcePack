@@ -1,5 +1,5 @@
 {
-  "version": "1.9.45",
+  "version": "1.9.46",
   "target": "Java 26.3",
   "retrieved_date_jst": "2026-10-31",
   "profiles": [
@@ -41,7 +41,7 @@
     },
     {
       "file": "assets/oa/textures/item/br_lobby_map_sky.png",
-      "source": "datapack の scripts/build_map_float.py sky --panel で会場の地形（土台）から生成（オリジナル、外部画像なし。1.9.44）"
+      "source": "datapack の scripts/build_map_sky.py --panel で中央の島の地形から生成（オリジナル、外部画像なし。1.9.44、1.9.46 で天空都市の作り直しに合わせて描き直し）"
     },
     {
       "file": "assets/oa/textures/item/br_lobby_map_end.png",
