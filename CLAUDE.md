@@ -1,6 +1,6 @@
 # OA Battle Royale リソースパック
 
-Minecraft Java Edition 26.3 向け OA Battle Royale のリソースパック。対応するデータパックは `YuuOhnuki/OA_BattleRoyale`（現在 v1.9.231 は本パック v1.9.44 と組み合わせる）。
+Minecraft Java Edition 26.3 向け OA Battle Royale のリソースパック。対応するデータパックは `YuuOhnuki/OA_BattleRoyale`（現在 v1.9.232 は本パック v1.9.45 と組み合わせる）。
 
 ## ルール
 - 変更したらバージョンを上げ、`pack.mcmeta`、README、ZIP名（`OA_BattleRoyale_Resources_vX.Y.Z.zip`）を揃える。
