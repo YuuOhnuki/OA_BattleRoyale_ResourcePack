@@ -1,5 +1,5 @@
 {
-  "version": "1.9.47",
+  "version": "1.9.48",
   "target": "Java 26.3",
   "retrieved_date_jst": "2026-10-31",
   "profiles": [
@@ -41,11 +41,17 @@
     },
     {
       "file": "assets/oa/textures/item/br_lobby_map_sky.png",
-      "source": "datapack の scripts/build_map_sky.py --panel で中央の島の地形から生成（オリジナル、外部画像なし。1.9.44、1.9.46 で天空都市の作り直しに合わせて描き直し）"
+      "source": "datapack の scripts/build_map_sky.py --panel で生成。1.9.48はガラスを除外した中央と代表6島の固定見本（オリジナル、外部画像なし。以前は1.9.44/1.9.46で天空都市の作り直しに合わせて更新）"
     },
     {
       "file": "assets/oa/textures/item/br_lobby_map_end.png",
-      "source": "datapack の scripts/build_map_float.py end --panel で会場の地形から生成（オリジナル、外部画像なし。1.9.44、1.9.45 で異界の作り直しに合わせて描き直し）"
+      "source": "datapack の scripts/build_map_float.py end --panel で生成。1.9.48はエンドの名称と新しい構造候補を反映した固定見本（オリジナル、外部画像なし。以前は1.9.44/1.9.45で更新）"
     }
-  ]
+  ],
+  "map_preview_update_1_9_48": {
+    "date_jst": "2026-11-23",
+    "source": "OA_BattleRoyale/scripts/build_map_sky.py and build_map_float.py",
+    "change": "Sky representative islands visible through dome glass; End display name; completed live preview is rendered by the plugin",
+    "new_external_images": false
+  }
 }
