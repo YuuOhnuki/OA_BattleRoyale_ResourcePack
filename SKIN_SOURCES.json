@@ -1,5 +1,5 @@
 {
-  "version": "1.9.48",
+  "version": "1.9.49",
   "target": "Java 26.3",
   "retrieved_date_jst": "2026-10-31",
   "profiles": [
@@ -46,6 +46,10 @@
     {
       "file": "assets/oa/textures/item/br_lobby_map_end.png",
       "source": "datapack の scripts/build_map_float.py end --panel で生成。1.9.48はエンドの名称と新しい構造候補を反映した固定見本（オリジナル、外部画像なし。以前は1.9.44/1.9.45で更新）"
+    },
+    {
+      "file": "assets/oa/textures/item/katana.png",
+      "source": "source/build_katana_1_9_49.py で描いた16×16のオリジナル（外部画像なし）。アシスト武器の刀、1.9.49"
     }
   ],
   "map_preview_update_1_9_48": {
